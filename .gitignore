@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+
+*.cgns
+
+cube_tet_case/[1-9]*/
+cube_tet_case/[0-9][0-9]*/
+cube_tet_case/[0-9][0-9][0-9]*/
+cube_tet_case/processor*/
